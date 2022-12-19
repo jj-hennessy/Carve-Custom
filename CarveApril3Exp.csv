@@ -1,0 +1,114 @@
+﻿StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q36_4,Q36_5,Q2,Q25,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q4_NPS_GROUP,Q4,Q14_1,Q13_1,Q13_2,Q13_3,Q13_4,Q13_5,Q26,Q16,Q23,Q23_3_TEXT,Q28,Q17,Q29,Q35_7,Q35_42,Q35_43
+02/04/22 13:57,02/04/22 14:00,IP Address,76.68.169.12,100,171,True,02/04/22 14:00,R_0Stcz726rUthJbb,,,,,48.41940308,-71.25450134,anonymous,EN,5' 10'',215,No,Unisex (sometimes called Men's skis),15,30,71,36,11,,,Lake Louise,15,14,69,83,,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Balazs,balazs607@gmail.com,
+02/04/22 14:02,02/04/22 14:05,IP Address,70.65.249.254,100,160,True,02/04/22 14:05,R_8pqG6T0Fegc9Gq5,,,,,51.08680725,-115.3504028,anonymous,EN,5' 5'',115,No,Women's,28,53,57,40,10,Detractor,5,Sunshine village ,7,35,82,42,28,,Sometimes,Show me everything (default),,Yes,"Red,Orange,Yellow,Green,Blue,Purple,Pink,White,Black,Brown","
+Abstract,
+Imagery,
+Patterned",Maddy,Maddydig.extra@gmail.com,
+02/04/22 14:34,02/04/22 14:37,IP Address,64.251.65.174,100,176,True,02/04/22 14:37,R_3RmEbgYaABfFNId,,,,,50.91569519,-113.8919983,anonymous,EN,5' 7'',230,Yes,Women's,84,7,1,7,1,Detractor,5,Nakiska,40,50,10,,,Yes,,Show me everything (default),,,,,Sarah,Spmandre@icloud.com,4037716962
+02/04/22 14:51,02/04/22 14:53,IP Address,70.107.82.232,100,126,True,02/04/22 14:53,R_uh7aH9wY7U4IVVv,,,,,40.72790527,-73.51180267,anonymous,EN,6' 0'',175,No,Unisex (sometimes called Men's skis),15,,50,50,50,,,,,,89,87,51,,About half the time,Show me everything (default),,"No, I mostly care about performance",,,Sean,Rushsean04@gmail.com,5164971137
+02/04/22 15:08,02/04/22 15:11,IP Address,67.69.76.192,100,184,True,02/04/22 15:11,R_bJFowbAwyzXw5LH,,,,,45.49949646,-73.58480072,anonymous,EN,5' 6'',127,No,Women's,39,20,65,55,18,Detractor,4,Whitewater – Nelson,15,52,51,34,23,,Sometimes,Show me everything (default),,Yes,,"
+Abstract,
+Imagery,
+Patterned",Suzie,Suzjago@gmail.com,7057833678
+02/04/22 15:22,02/04/22 15:25,IP Address,209.52.88.154,100,139,True,02/04/22 15:25,R_ReIeapOTuE4OYs9,,,,,49.24499512,-123.1336975,anonymous,EN,6' 2'',187,No,Unisex (sometimes called Men's skis),55,17,36,72,35,Promoter,9,Whitler,,7,71,70,36,,Sometimes,Show me everything (default),,Yes,,"
+Abstract,
+Imagery,
+Patterned,
+Flat color",Johnny,johnnyharley1703@gmail.com,6049359478
+02/04/22 15:22,02/04/22 15:25,IP Address,173.177.80.129,100,147,True,02/04/22 15:25,R_3HS9URioyrIEZ9y,,,,,45.48539734,-75.65789795,anonymous,EN,5' 11'',150,No,Unisex (sometimes called Men's skis),26,10,81,94,,Passive,7,Mont Sutton,,,85,100,,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Olivier,Oguimond08@gmail.com,6136067456
+02/04/22 15:44,02/04/22 15:47,IP Address,68.150.196.226,100,207,True,02/04/22 15:47,R_1gRzApvthM6JvkY,,,,,53.55340576,-113.4981995,anonymous,EN,5' 4'',120,No,Unisex (sometimes called Men's skis),62,55,51,51,25,Detractor,5,Sunshine Village,13,88,75,61,39,,Sometimes,Show me everything (default),,Yes,"Orange,Yellow,Green,Blue,Purple,Pink,White,Black,Brown","
+Abstract,
+Imagery,
+Patterned",Sky,S.hateley695@gmail.com,
+02/04/22 16:03,02/04/22 16:05,IP Address,154.20.88.215,100,153,True,02/04/22 16:06,R_1ozrl0Kg58MIu7k,,,,,48.44500732,-123.3522034,anonymous,EN,5' 9'',180,No,Unisex (sometimes called Men's skis),40,13,33,50,,Passive,8,Whistler Blackcomb,0,30,50,20,,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Josh,joshgladman19@gmail.com,2508933815
+02/04/22 16:19,02/04/22 16:21,IP Address,192.0.249.218,100,108,True,02/04/22 16:21,R_33dtWPAhOP2wXKJ,,,,,43.78030396,-79.59159851,anonymous,EN,6' 1'',175,No,Unisex (sometimes called Men's skis),51,11,22,33,80,Detractor,3,Whistler Blackcomb,0,21,20,17,91,,About half the time,Show me everything (default),,"No, I mostly care about performance",,,Ryan,Rmcskier@gmail.com,6473918929
+02/04/22 16:48,02/04/22 16:52,IP Address,99.251.82.70,100,190,True,02/04/22 16:52,R_1M0M2QJYu11BhWj,,,,,43.44760132,-80.4713974,anonymous,EN,6' 1'',250,No,Unisex (sometimes called Men's skis),90,,,10,,Detractor,5,Blue Mountain Resort – Collingwood,15,45,25,15,,,Never,Show me everything (default),,Yes,,"
+Patterned,
+Flat color",Mark,Markphallman@gmail.com,5195888825
+02/04/22 16:51,02/04/22 16:54,IP Address,75.82.75.63,100,163,True,02/04/22 16:54,R_57okrCUQURRjHQl,,,,,38.55430603,-106.9228973,anonymous,EN,5' 8'',145,No,Unisex (sometimes called Men's skis),50,25,25,25,,Detractor,5,Crested Butte,,30,40,30,,,Never,Show me everything (default),,"No, I mostly care about performance",,,John,John@stenmark.us,
+02/04/22 17:01,02/04/22 17:03,IP Address,184.151.230.157,100,105,True,02/04/22 17:03,R_3g25IzFm9brvkxf,,,,,49.13209534,-122.8171997,anonymous,EN,5' 8'',145,No,Women's,17,16,32,76,,,,,3,4,46,96,,,Never,Show me everything (default),,"No, I mostly care about performance",,,D,denaesimonson@yahoo.ca,6393177808
+02/04/22 17:16,02/04/22 17:20,IP Address,72.143.238.24,100,209,True,02/04/22 17:20,R_1NfcACetrOGeyFt,,,,,49.25149536,-122.9412994,anonymous,EN,5' 6'',132,No,Unisex (sometimes called Men's skis),30,8,21,31,11,Detractor,5,Whistler ,10,39,41,11,6,,Sometimes,Show me everything (default),,Yes,,"
+Abstract,
+Imagery,
+Patterned",Moritz,Moritztln@icloud.com,6049359329
+02/04/22 17:36,02/04/22 17:40,IP Address,72.143.235.235,100,241,True,02/04/22 17:40,R_3Mg2TN0Lad9erbS,,,,,49.24499512,-123.1336975,anonymous,EN,5' 8'',132,No,Unisex (sometimes called Men's skis),39,10,70,70,,Detractor,5,Whistler Blackcomb,10,53,54,19,23,,Sometimes,Show me everything (default),,Yes,"Green,Blue,Purple,Pink,White,Black","
+Abstract,
+Imagery",Chanak ,Chanak20@aol.com,07877102136
+02/04/22 18:00,02/04/22 18:04,IP Address,99.243.35.8,100,203,True,02/04/22 18:04,R_24qmrmAHqz04IKJ,,,,,42.98779297,-81.23840332,anonymous,EN,6' 0'',165,No,Unisex (sometimes called Men's skis),81,9,48,66,100,Detractor,4,Tremblant,51,100,100,100,100,,About half the time,Show me everything (default),,Yes,"Red,Orange,Yellow,Green,Blue,Purple,Pink,White,Black,Brown","
+Abstract,
+Imagery,
+Patterned,
+Flat color",Theo ,Theotaylor551@gmail.com,5198512201
+02/04/22 18:09,02/04/22 18:11,IP Address,73.219.200.89,100,121,True,02/04/22 18:11,R_1JLwIZbP5gT3DfH,,,,,43.2993927,-72.47810364,anonymous,EN,6' 0'',210,No,Unisex (sometimes called Men's skis),83,,15,19,0,Detractor,5,Okemo,5,15,80,5,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Zac,momentends@gmail.com,
+02/04/22 18:09,02/04/22 18:12,IP Address,72.143.219.5,100,182,True,02/04/22 18:12,R_3r7wDTQ4m4iuXGF,,,,,49.24499512,-123.1336975,anonymous,EN,6' 1'',215,No,,31,,29,31,,Passive,7,Whistler Blackcomb,,,,100,,,Never,Show me everything (default),,Yes,,"
+Patterned,
+Flat color",Jaje,Jacob_halliday113@hotmail.com,4162716927
+02/04/22 18:14,02/04/22 18:18,IP Address,174.115.102.177,100,223,True,02/04/22 18:18,R_2xJAb1ADxmGvULI,,,,,45.42230225,-75.70809937,anonymous,EN,6' 0'',165,No,Unisex (sometimes called Men's skis),79,88,88,56,30,,,Whistler Blackcomb,21,41,85,85,14,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Crameron,Crameron01@gmail.com,
+02/04/22 18:21,02/04/22 18:26,IP Address,174.91.85.38,100,301,True,02/04/22 18:26,R_pzNYU3YXDUioHpn,,,,,46.30230713,-79.44529724,anonymous,EN,5' 3'',158,No,"Unisex (sometimes called Men's skis),Women's",90,,,24,,Detractor,5,Mont St. Louis Moonstone ,0,60,83,26,,,,Show me everything (default),,"No, I mostly care about performance",,,Judi,jjessen@sympatico.ca,
+02/04/22 18:24,02/04/22 18:29,IP Address,98.202.136.205,100,294,True,02/04/22 18:29,R_vOF0yCEaFDQxevv,,,,,40.65660095,-111.8907013,anonymous,EN,5' 5'',180,No,Unisex (sometimes called Men's skis),60,,20,20,,Detractor,5,Solitude,10,60,15,15,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Dan,dan9389@yahoo.com,
+02/04/22 18:30,02/04/22 18:33,IP Address,207.228.78.237,100,191,True,02/04/22 18:33,R_0VS8CKceRt31J85,,,,,50.91569519,-113.8919983,anonymous,EN,5' 2'',127,No,Women's,63,23,36,54,,Passive,7,Lake Louise,38,59,32,,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Janixe,janicevdub@hotmail.com,
+02/04/22 18:34,02/04/22 18:39,IP Address,209.52.88.105,100,280,True,02/04/22 18:39,R_e4hTDK5zkWM9HIB,,,,,49.24499512,-123.1336975,anonymous,EN,5' 9'',165,Yes,Unisex (sometimes called Men's skis),40,21,0,40,0,Detractor,5,Whistler,,20,30,10,39,No,,Show me everything (default),,"No, I mostly care about performance",,,Justin,justin.john.butler@gmail.com,6047884862
+02/04/22 19:41,02/04/22 19:44,IP Address,47.145.185.64,100,199,True,02/04/22 19:44,R_3sp3wFDFbGXPDMt,,,,,33.9526062,-116.9680023,anonymous,EN,6' 0'',238,No,Unisex (sometimes called Men's skis),91,,,9,,Detractor,5,Snow Summit – Big Bear Lake,,78,21,16,,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Russ,Rus@bog.com,9515551212
+02/04/22 19:40,02/04/22 19:45,IP Address,207.216.52.13,100,278,True,02/04/22 19:45,R_1r69xmAqiqO5hbW,,,,,50.12120056,-122.9501038,anonymous,EN,6' 4'',205,No,Unisex (sometimes called Men's skis),45,,5,25,25,Passive,8,Whistler Blackcomb,5,30,20,30,15,,About half the time,Show me everything (default),,"No, I mostly care about performance",,,Bridger,bjthiessen@mun.ca,6043884593
+02/04/22 19:45,02/04/22 19:47,IP Address,24.64.122.134,100,158,True,02/04/22 19:47,R_3oNEMzI5ncGZoW9,,,,,51.08680725,-115.3504028,anonymous,EN,6' 5'',175,No,Unisex (sometimes called Men's skis),42,21,59,43,61,Detractor,6,Sunshine Village,13,30,75,74,74,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,,Finn.vogelaar@gmail.com,
+02/04/22 19:47,02/04/22 19:52,IP Address,174.4.36.201,100,304,True,02/04/22 19:52,R_vC7HmcBp4ncpOJH,,,,,50.26669312,-119.2667007,anonymous,EN,5' 2'',90,No,Unisex (sometimes called Men's skis),,,,,100,,,Silver Star,,,0,26,100,,About half the time,Show me everything (default),,Yes,"Blue,Purple,Pink,White,Black,Brown","
+Patterned",khrystian ,khrysacat@gmail.com,2505506827
+02/04/22 19:51,02/04/22 19:53,IP Address,199.60.151.178,100,148,True,02/04/22 19:53,R_DtJQ87rYZox88Gl,,,,,49.50050354,-117.2863998,anonymous,EN,5' 6'',160,No,"Unisex (sometimes called Men's skis),Women's",67,,27,47,,Detractor,5,Whitewater – Nelson,23,73,60,15,,,Sometimes,Show me everything (default),,Yes,"Pink,White,Black","
+Abstract,
+Imagery,
+Patterned",Maren,marenhale@msn.com,5195013695
+02/04/22 19:49,02/04/22 19:54,IP Address,74.58.68.223,100,277,True,02/04/22 19:54,R_07oPGmg3g17gxUd,,,,,45.67419434,-73.87539673,anonymous,EN,5' 8'',120,No,Unisex (sometimes called Men's skis),52,84,17,17,90,Detractor,5,Mont Avila,8,10,32,6,87,,Sometimes,"Maximum budget, in $:",700$,Yes,,"
+Abstract,
+Imagery",Max,mxmorin@icloud.com,
+02/04/22 20:06,02/04/22 20:09,IP Address,72.143.221.125,100,155,True,02/04/22 20:09,R_1BWYi058W1kaSUs,,,,,49.13209534,-122.8171997,anonymous,EN,5' 9'',145,No,Unisex (sometimes called Men's skis),20,20,20,20,100,,,,21,51,51,29,100,,About half the time,Show me everything (default),,"No, I mostly care about performance",,,Nick,Imsoslim7@gmail.com,7788229264
+02/04/22 20:25,02/04/22 20:26,IP Address,24.64.122.187,100,82,True,02/04/22 20:26,R_2VJTTkoqNJzbt1l,,,,,51.08680725,-115.3504028,anonymous,EN,6' 2'',210,No,Unisex (sometimes called Men's skis),16,35,49,85,51,,,,8,45,95,95,100,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Lucas,Lucaslb15@hotmail.com,
+02/04/22 20:32,02/04/22 20:35,IP Address,137.186.32.69,100,151,True,02/04/22 20:35,R_1F4AkTeAfbZVRxL,,,,,53.55340576,-113.4981995,anonymous,EN,6' 0'',185,No,Unisex (sometimes called Men's skis),96,,,,,Detractor,3,Sunshine Village,30,76,33,,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Jared ,jmheatherington@gmail.com,
+02/04/22 20:37,02/04/22 20:39,IP Address,65.95.86.187,100,145,True,02/04/22 20:39,R_20Ptu2T1PN9JicG,,,,,43.44859314,-79.67060089,anonymous,EN,6' 1'',210,No,Unisex (sometimes called Men's skis),81,0,19,19,35,Detractor,5,Blue Mountain Resort – Collingwood,5,30,70,39,41,,Never,Show me everything (default),,"No, I mostly care about performance",,,Andrew,splashhockey@gmail.com,
+02/04/22 21:34,02/04/22 21:36,IP Address,68.145.188.21,100,133,True,02/04/22 21:36,R_1qecKkG0SgmwmIS,,,,,49.5,-115.0670013,anonymous,EN,5' 8'',140,Yes,Women's,30,30,73,60,,Detractor,5,Lake Louise,13,31,68,31,,No,,Show me everything (default),,"No, I mostly care about performance",,,Jacqui,jacquicmoreland@gmail.com,4039682602
+02/04/22 21:30,02/04/22 21:36,IP Address,99.250.250.8,100,382,True,02/04/22 21:36,R_3m8Kqcxs5Fka45r,,,,,43.46899414,-80.4980011,anonymous,EN,6' 5'',187,No,Unisex (sometimes called Men's skis),30,20,41,17,50,Detractor,4,Tremblant,12,24,89,35,42,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Djordje,djordjevlaski1@gmail.com,
+02/04/22 21:53,02/04/22 21:56,IP Address,204.83.216.100,100,171,True,02/04/22 21:56,R_33p6ZMWzkkKlCdV,,,,,50.44810486,-104.6126022,anonymous,EN,5' 7'',137,No,Women's,80,20,,7,,Detractor,6,Sunshine,18,78,7,,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Sharon ,Solson62@sasktel.net,3068615320
+02/04/22 21:53,02/04/22 22:00,IP Address,184.162.119.24,100,441,True,02/04/22 22:00,R_25YLbdUm92uLviw,,,,,46.80380249,-71.24610138,anonymous,EN,5' 7'',150,No,Unisex (sometimes called Men's skis),40,20,40,40,,Detractor,5,Mont-Sainte-Anne,0,20,60,40,40,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Thomas ,tdemauraige@gmail.com,581-849-8088
+02/04/22 21:58,02/04/22 22:01,IP Address,76.71.214.226,100,151,True,02/04/22 22:01,R_2XaLFxntls2IyBR,,,,,45.36959839,-73.56539917,anonymous,EN,6' 1'',203,No,Unisex (sometimes called Men's skis),17,12,75,30,,,,,25,50,15,5,5,,Never,Show me everything (default),,"No, I mostly care about performance",,,Philippe,Phil.normandin@outlook.com,
+02/04/22 22:00,02/04/22 22:02,IP Address,76.89.104.15,100,162,True,02/04/22 22:02,R_3NPdWZ2f4UGtHYd,,,,,33.80599976,-116.4624023,anonymous,EN,6' 4'',225,No,Unisex (sometimes called Men's skis),80,,,21,,Detractor,2,Snowmass,22,53,15,,,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Gene,Greiling@rap.midco.net,6053415444
+02/04/22 22:01,02/04/22 22:03,IP Address,142.179.123.20,100,149,True,02/04/22 22:03,R_2q9HpiG5jEyvKfq,,,,,49.36669922,-123.1665039,anonymous,EN,6' 2'',190,No,Unisex (sometimes called Men's skis),15,5,26,34,20,,,,10,10,25,35,20,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Theo ,Theo@thewongfamily.ca,6043403446
+02/04/22 23:00,02/04/22 23:03,IP Address,172.219.146.178,100,149,True,02/04/22 23:03,R_vH6wfR0NHdU716h,,,,,51.1750946,-115.5752029,anonymous,EN,6' 1'',169,No,Unisex (sometimes called Men's skis),70,62,60,50,40,Detractor,5,Lake Louise,29,62,93,89,16,,Sometimes,Show me everything (default),,Yes,"Red,Orange,Yellow,Green,Blue,Purple,Pink","
+Abstract,
+Imagery,
+Patterned,
+Flat color",Jojo,Jojogill789@gmail.com,
+02/04/22 23:36,02/04/22 23:39,IP Address,184.64.222.108,100,165,True,02/04/22 23:39,R_WjIzgbZRULEMESt,,,,,51.08349609,-114.0781021,anonymous,EN,6' 2'',215,No,Unisex (sometimes called Men's skis),42,8,53,39,,Promoter,10,Lake Louise,6,20,41,100,,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Ryan,iamryanp@hotmail.com,
+02/04/22 23:43,02/04/22 23:45,IP Address,199.7.157.120,100,138,True,02/04/22 23:45,R_1IHhFCtvkQpOGRJ,,,,,43.66549683,-79.42040253,anonymous,EN,5' 8'',190,No,Unisex (sometimes called Men's skis),85,52,44,33,36,Detractor,5,Cypress Mountain,25,79,54,22,23,,Sometimes,Show me everything (default),,Yes,"Red,Green,Blue,White,Black","
+Imagery,
+Patterned,
+Flat color",Thomas,thomas13t35@gmail.com,7783182486
+03/04/22 0:10,03/04/22 0:15,IP Address,70.70.141.35,100,275,True,03/04/22 0:15,R_10ocM2acj91ELDK,,,,,50.12120056,-122.9501038,anonymous,EN,5' 6'',170,No,Women's,51,,35,74,5,Detractor,5,Whistler Blackcomb,25,49,75,38,12,,Sometimes,Show me everything (default),,Yes,"Blue,Purple,White,Black","
+Abstract,
+Imagery,
+Patterned",Emma,Emma.rose.1997@hotmail.com,6043884156
+03/04/22 0:32,03/04/22 0:36,IP Address,67.161.219.98,100,231,True,03/04/22 0:36,R_1IzTrZjnyFUhFgS,,,,,40.49499512,-111.410202,anonymous,EN,5' 6'',150,No,Unisex (sometimes called Men's skis),70,5,30,50,,Detractor,5,Deer Valley,,50,50,10,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Dan,Razdjr52@gmail.com,2627828729
+03/04/22 1:10,03/04/22 1:14,IP Address,71.56.150.249,100,281,True,03/04/22 1:14,R_2vYzATIpRxgjfnv,,,,,44.59280396,-123.2745972,anonymous,EN,5' 9'',155,Yes,Women's,56,41,24,64,6,Detractor,4,Mt. Hood Meadows,35,50,73,56,6,Yes,,Show me everything (default),,Yes,,"
+Abstract,
+Imagery,
+Patterned",emma ,gerbilh2o@gmail.com,5037415808
+03/04/22 3:29,03/04/22 3:31,IP Address,162.156.103.179,100,145,True,03/04/22 3:31,R_1g6ZXI2zholMPnn,,,,,50.02430725,-119.4020996,anonymous,EN,6' 3'',220,No,Unisex (sometimes called Men's skis),32,72,72,74,21,Passive,8,Silver Star,7,27,69,73,15,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Quin,QuinF@shaw.ca,+1 02503085897
+03/04/22 4:52,03/04/22 4:55,IP Address,71.192.56.22,100,197,True,03/04/22 4:55,R_1Q0EYFse8TRTgyk,,,,,42.74909973,-71.86560059,anonymous,EN,5' 10'',200,No,Unisex (sometimes called Men's skis),90,,6,4,,Passive,7,Sugarbush,20,30,25,25,0,,Never,Show me everything (default),,"No, I mostly care about performance",,,Guyier,Guyrj33@hotmail.com,5082849602
+03/04/22 6:19,03/04/22 6:22,IP Address,24.201.70.108,100,195,True,03/04/22 6:22,R_1opUXqKfhoHStCh,,,,,45.40280151,-72.73149872,anonymous,EN,6' 1'',165,No,Unisex (sometimes called Men's skis),40,25,25,10,50,Detractor,1,Tremblant,0,5,20,30,50,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,Jonathan ,jonathantherrien5@gmail.com,6136051127
+03/04/22 6:29,03/04/22 6:33,IP Address,174.116.236.49,100,275,True,03/04/22 6:33,R_3nq5NSrA0vpgmxs,,,,,46.0980072,-64.75060272,anonymous,EN,5' 8'',165,No,Unisex (sometimes called Men's skis),25,5,40,40,60,Detractor,5,,1,20,45,50,80,,About half the time,Show me everything (default),,"No, I mostly care about performance",,,Xavier,xaviermorin1@icloud.com,15063805545
+03/04/22 7:25,03/04/22 7:28,IP Address,99.242.140.105,100,149,True,03/04/22 7:28,R_272nGEFZlfIN5I8,,,,,42.98779297,-81.23840332,anonymous,EN,5' 8'',160,No,Unisex (sometimes called Men's skis),84,10,15,14,2,Detractor,6,Boler Mountain – London,11,13,90,67,8,,Sometimes,Show me everything (default),,Yes,"Red,Orange,Blue,Purple,White,Black","
+Imagery,
+Patterned",Tiao ,zhoudavi850@gmail.com,5197024338
+03/04/22 7:56,03/04/22 8:00,IP Address,75.155.118.166,100,194,True,03/04/22 8:00,R_3LbWWJ3V7JNrd3m,,,,,51.08349609,-114.0781021,anonymous,EN,5' 7'',175,No,"Unisex (sometimes called Men's skis),Women's",10,20,30,40,,,,Sunshine Village,15,15,35,35,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Krista,krista_davey@hotmail.com,
+03/04/22 8:25,03/04/22 8:28,IP Address,70.55.190.162,100,155,True,03/04/22 8:28,R_1fZ2ui7HQ3mYSbl,,,,,45.73150635,-73.4469986,anonymous,EN,5' 7'',125,No,Unisex (sometimes called Men's skis),18,20,20,20,20,,,,11,10,68,66,49,,Sometimes,"Maximum budget, in $:",400,"No, I mostly care about performance",,,Dkdkdh,Sheudg@hotmail.com,5147043985
+03/04/22 8:47,03/04/22 8:49,IP Address,184.64.106.75,100,142,True,03/04/22 8:49,R_2qsMn0LqfdLMQuE,,,,,51.08349609,-114.0781021,anonymous,EN,5' 8'',180,No,Women's,85,21,47,5,,Passive,7,Silver Mountain,14,76,56,5,,,Sometimes,Show me everything (default),,"No, I mostly care about performance",,,JD,Snow4daisy@hotmail.com,
+03/04/22 9:13,03/04/22 9:16,IP Address,207.228.78.188,100,209,True,03/04/22 9:16,R_xi9QwAPVOc9xNM5,,,,,50.91569519,-113.8919983,anonymous,EN,6' 3'',215,No,Unisex (sometimes called Men's skis),26,43,23,37,,Detractor,4,Lake Louise,,6,51,51,,,Sometimes,,,Yes,"Red,Orange,Yellow,Green,Blue,Purple,Pink,White,Black,Brown","
+Abstract,
+Imagery,
+Patterned",Gavin,Gavin.alexander@shaw.ca,
+03/04/22 9:18,03/04/22 9:21,IP Address,68.146.9.92,100,174,True,03/04/22 9:21,R_DB0AOlR9yi2qoRH,,,,,51.08349609,-114.0781021,anonymous,EN,5' 4'',176,No,Women's,44,29,17,53,9,Detractor,5,Sunshine village ,8,65,74,12,22,,Never,Show me everything (default),,"No, I mostly care about performance",,,Sonia ,Sonia@schaabholdings.com,
+03/04/22 9:42,03/04/22 9:45,IP Address,72.140.27.49,100,147,True,03/04/22 9:45,R_1IFOJ1DGGX6INbR,,,,,43.89889526,-78.87069702,anonymous,EN,5' 10'',215,No,Unisex (sometimes called Men's skis),89,10,5,15,15,Passive,8,,30,75,60,30,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Tom,factsseeker@hotmail.com,
+03/04/22 10:16,03/04/22 10:19,IP Address,162.157.71.187,100,200,True,03/04/22 10:19,R_rpRMmC5HdgY3VWp,,,,,51.08349609,-114.0781021,anonymous,EN,5' 8'',170,No,Women's,70,15,15,40,0,Detractor,0,Sunshine Village,25,80,25,,,,Never,Show me everything (default),,"No, I mostly care about performance",,,Brad,jbpollo@gmail.com,4034616442
+03/04/22 10:18,03/04/22 10:21,IP Address,66.131.166.111,100,193,True,03/04/22 10:21,R_3kGrHS9xB0HzNSo,,,,,45.49949646,-73.58480072,anonymous,EN,6' 1'',145,Yes,Unisex (sometimes called Men's skis),30,,40,25,60,Detractor,3,Mont Orford,,,20,40,40,Yes,,Show me everything (default),,"No, I mostly care about performance",,,Xavier,Xavier.j.edwards@gmail.com,
+03/04/22 11:41,03/04/22 11:45,IP Address,72.2.45.139,100,254,True,03/04/22 11:45,R_xfoJB8ccwlOjYeR,,,,,49.48170471,-119.5818024,anonymous,EN,5' 9'',140,No,Unisex (sometimes called Men's skis),30,30,80,70,20,Passive,8,Mt. Baldy,25,25,74,52,31,,Sometimes,Show me everything (default),,Yes,"Red,Yellow,Green,Blue,Purple,Pink","
+Abstract,
+Imagery,
+Patterned",Sage,sspence2020@gmail.com,
